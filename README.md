@@ -35,3 +35,19 @@
 4. 革命理论（主要是反驳当前左派队伍中小ZC阶级头领、形左实右者的观点）
 5. 时事评论
 6. 杂谈评论（主要是对文艺作品等的评论和随想随感）
+
+此外还有其他资料链接：
+
+1. 需要翻墙, 文献资料很全 [bannedthought.net](https://bannedthought.net/)
+   1. 查红旗：http://www.bannedthought.net/China/Magazines/Hongqi/index.htm
+   2. 查朝霞：http://www.bannedthought.net/China/Magazines/ZhaoXia-MorningGlow/index.htm
+   3. 查学习与批判：http://www.bannedthought.net/China/Magazines/StudyAndCriticism/index.htm
+2. 中文马克思主义文库（虽然是个托派网址）：https://www.marxists.org/chinese/index.html
+   1. 中苏论战资料：https://www.marxists.org/chinese/reference-books/sino-soviet-debate/index.htm
+   2. 林总资料：https://www.marxists.org/chinese/linbiao/index.htm
+   3. 鲁迅全集：https://www.marxists.org/chinese/reference-books/luxun/index.htm
+   4. 戚本禹回忆录：https://www.marxists.org/chinese/reference-books/qibenyu/index.htm
+3. JOJO看报（能查人民日报、参考消息、红旗、人民画报）：https://reader.jojokanbao.cn/
+4. 查人民日报、新闻联播、参考消息，文字版：https://cn.govopendata.com/
+5. 星星之火： https://starfire1226.top/tags/
+6. 列宁格勒印刷三厂工人理论小组： https://lenin3print.github.io/
