@@ -48,7 +48,7 @@
    1. 查红旗：http://www.bannedthought.net/China/Magazines/Hongqi/index.htm
    2. 查朝霞：http://www.bannedthought.net/China/Magazines/ZhaoXia-MorningGlow/index.htm
    3. 查学习与批判：http://www.bannedthought.net/China/Magazines/StudyAndCriticism/index.htm
-2. 中文马克思主义文库（虽然是个托派网址）：https://www.marxists.org/chinese/index.html
+2. 中文马克思主义文库（虽然是个托派网址, 现在需要翻墙）：https://www.marxists.org/chinese/index.html
    1. 中苏论战资料：https://www.marxists.org/chinese/reference-books/sino-soviet-debate/index.htm
    2. 林总资料：https://www.marxists.org/chinese/linbiao/index.htm
    3. 鲁迅全集：https://www.marxists.org/chinese/reference-books/luxun/index.htm
